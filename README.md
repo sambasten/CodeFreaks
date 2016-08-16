@@ -9,7 +9,7 @@
 * [Understanding Branches] (http://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html)
 * [Codecademy] (https://www.codecademy.com/learn/learn-git)
 
-# Awesome Music Apps created with Python*
+# *Awesome Music Apps created with Python*
 
   * i. [Python Music Webapp](https://github.com/michaelliao/awesome-python-webapp)
     
