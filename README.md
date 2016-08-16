@@ -1,4 +1,4 @@
-# Day 2: Andela Project on Information
+# Day 2: Andela Project on Version Control
 
 
 # Five different topics to talk about
