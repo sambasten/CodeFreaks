@@ -10,10 +10,10 @@ Five different topics to talk about
 * [Version Control Explained] (https://www.atlassian.com/git/tutorials/what-is-version-control/)
 * [Understanding Branches] (http://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html)
 
-From stineok
-Learning Git
+##FootBall News
 
-Git allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It's a distributed version control system.
-Study Guide
-
-https://www.atlassian.com/git/tutorials/what-is-version-control/benefits-of-version-control
+* [ARSENAL] (http://Arsenal.com)
+* [SKYSPORTS] (http://skysports.com/arsenal)
+* [MIRRO] (http://mirror.co.uk)
+* [DAILYMAIL] (http://dailymail.co.uk/sport/teampages/arsenal.html)
+* [ESPN] (http://espnfc.com.ng/club/arsenal/359/index)
