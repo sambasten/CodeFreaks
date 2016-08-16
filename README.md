@@ -24,21 +24,22 @@
   * [Magic Music Player](https://github.com/ianmcgregor/magic-music-player)
     
 
-# Node Packages And Links To Get Them
- * https://www.npmjs.com/package/mongoose
+## NODE PACKAGES AND LINKS TO GET THEM
+ * [Mongoose](https://www.npmjs.com/package/mongoose)
+ 	  * var mongoose = require('mongoose')
       * mongoose.connect('mongodb://localhost:27017/myDatabase')
- * https://www.npmjs.com/package/express
+ * [Express](https://www.npmjs.com/package/express)
       * var app = require('express')
- * https://www.npmjs.com/package/body-parser
+ * [Body-parser](https://www.npmjs.com/package/body-parser)
       * var bodyParser = require('body-parser')
       * app.use(bodyParser.json());
- * https://www.npmjs.com/package/cookie-parser
+ * [Cookie-Parser](https://www.npmjs.com/package/cookie-parser)
       *  var session = require('express-session')
       * app.use(cookieParser());
- * https://www.npmjs.com/package/express-session
+ * [Express-Session](https://www.npmjs.com/package/express-session)
       * var session = require('express-session')
-      * app.use(session({secret: 'secrete'})).
- 
+      * app.use(session({secret: 'secrete'}))
+
 
 #FootBall News
 
