@@ -24,6 +24,6 @@
   * iv. https://github.com/eduardocasas/MyMusic
     Python-based Web app to play music files through a HTML5 music player.
 
-  * v. https://github.com/ianmcgregor/magic-music-player
+  * v. https://github.com/ianmcgregor/magic-music-player 
     Small music player app built to learn a bit of Python http://magicmusicplayer.appspot.com/
 
