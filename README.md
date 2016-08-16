@@ -22,7 +22,7 @@
       * app.use(cookieParser());
  * https://www.npmjs.com/package/express-session
       * var session = require('express-session')
-      * app.use(session({secret: 'secrete'}))
+      * app.use(session({secret: 'secrete'})).
 
 
 
