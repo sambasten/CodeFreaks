@@ -40,6 +40,16 @@
  * https://www.npmjs.com/package/express-session
       * var session = require('express-session')
       * app.use(session({secret: 'secrete'})).
+ 
+
+#FootBall News
+
+* [ARSENAL] (http://Arsenal.com)
+* [SKYSPORTS] (http://skysports.com/arsenal)
+* [MIRRO] (http://mirror.co.uk)
+* [DAILYMAIL] (http://dailymail.co.uk/sport/teampages/arsenal.html)
+* [ESPN] (http://espnfc.com.ng/club/arsenal/359/index)
+
 
 
 
