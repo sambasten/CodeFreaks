@@ -4,10 +4,10 @@
 # Five different topics to talk about
 
 # Git
- A version control system that allows collaboration in working on a project. Check the following link for more information:
-* [Codecademy] (https://www.codecademy.com/learn/learn-git)
+ A version control system that allows collaboration in working on a project. Check the following links for more information:
 * [Version Control Explained] (https://www.atlassian.com/git/tutorials/what-is-version-control/)
 * [Understanding Branches] (http://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html)
+* [Codecademy] (https://www.codecademy.com/learn/learn-git)
 
 # Awesome Music Apps created with Python*
 
@@ -26,7 +26,7 @@
   * v. https://github.com/ianmcgregor/magic-music-player
     Small music player app built to learn a bit of Python http://magicmusicplayer.appspot.com/
 
-# NODE PACKAGES AND LINKS TO GET THEM
+# Node Packages And Links To Get Them
  * https://www.npmjs.com/package/mongoose
       * mongoose.connect('mongodb://localhost:27017/myDatabase')
  * https://www.npmjs.com/package/express
