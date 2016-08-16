@@ -11,19 +11,19 @@
 
 # Awesome Music Apps created with Python*
 
-  * i. https://github.com/michaelliao/awesome-python-webapp
+  * i. [https://github.com/michaelliao/awesome-python-webapp]
     A web based music app created with python and its framework django
 
-  * ii. https://github.com/MusikPolice/MusicDirCleanup
+  * ii. [https://github.com/MusikPolice/MusicDirCleanup]
     A python script to tidy up music directories prior to running auto-tagging apps like Beets
 
-  * iii. https://github.com/MelleDijkstra/PythonMusicPlayer
+  * iii. [https://github.com/MelleDijkstra/PythonMusicPlayer]
     A Music Player in the Python language. Created for personal use as server on the Raspberry Pi and a controller with Android App
 
-  * iv. https://github.com/eduardocasas/MyMusic
+  * iv. [https://github.com/eduardocasas/MyMusic]
     Python-based Web app to play music files through a HTML5 music player.
 
-  * v. https://github.com/ianmcgregor/magic-music-player
+  * v. [https://github.com/ianmcgregor/magic-music-player]
     Small music player app built to learn a bit of Python http://magicmusicplayer.appspot.com/
 
 # Node Packages And Links To Get Them
