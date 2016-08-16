@@ -8,9 +8,8 @@
 * [Codecademy] (https://www.codecademy.com/learn/learn-git)
 * [Version Control Explained] (https://www.atlassian.com/git/tutorials/what-is-version-control/)
 * [Understanding Branches] (http://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html)
-* 
 
-*1. Awesome Music Apps created with Python*
+# Awesome Music Apps created with Python*
 
   * i. https://github.com/michaelliao/awesome-python-webapp
     A web based music app created with python and its framework django
@@ -27,7 +26,7 @@
   * v. https://github.com/ianmcgregor/magic-music-player
     Small music player app built to learn a bit of Python http://magicmusicplayer.appspot.com/
 
-## NODE PACKAGES AND LINKS TO GET THEM
+# NODE PACKAGES AND LINKS TO GET THEM
  * https://www.npmjs.com/package/mongoose
       * mongoose.connect('mongodb://localhost:27017/myDatabase')
  * https://www.npmjs.com/package/express
