@@ -26,19 +26,11 @@
 
 ## NODE PACKAGES AND LINKS TO GET THEM
  * [Mongoose](https://www.npmjs.com/package/mongoose)
- 	  * var mongoose = require('mongoose')
-      * mongoose.connect('mongodb://localhost:27017/myDatabase')
  * [Express](https://www.npmjs.com/package/express)
-      * var app = require('express')
  * [Body-parser](https://www.npmjs.com/package/body-parser)
-      * var bodyParser = require('body-parser')
-      * app.use(bodyParser.json());
  * [Cookie-Parser](https://www.npmjs.com/package/cookie-parser)
-      *  var session = require('express-session')
-      * app.use(cookieParser());
  * [Express-Session](https://www.npmjs.com/package/express-session)
-      * var session = require('express-session')
-      * app.use(session({secret: 'secrete'}))
+
 
 
 #FootBall News
