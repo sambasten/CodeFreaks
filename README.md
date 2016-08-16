@@ -11,17 +11,17 @@
 
 # *Awesome Music Apps created with Python*
 
-  * i. [Python Music Webapp](https://github.com/michaelliao/awesome-python-webapp)
+  * [Python Music Webapp](https://github.com/michaelliao/awesome-python-webapp)
     
-  * ii.[Music Directory](https://github.com/MusikPolice/MusicDirCleanup)
-    
-
-  * iii. [Python Music Player](https://github.com/MelleDijkstra/PythonMusicPlayer)
+  * [Music Directory](https://github.com/MusikPolice/MusicDirCleanup)
     
 
-  * iv. [My Music](https://github.com/eduardocasas/MyMusic)
+  * [Python Music Player](https://github.com/MelleDijkstra/PythonMusicPlayer)
     
-  * v. [Magic Music Player](https://github.com/ianmcgregor/magic-music-player)
+
+  * [My Music](https://github.com/eduardocasas/MyMusic)
+    
+  * [Magic Music Player](https://github.com/ianmcgregor/magic-music-player)
     
 
 # Node Packages And Links To Get Them
